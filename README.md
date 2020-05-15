@@ -1,4 +1,4 @@
-# Require for g2i's notion blog
+# Required for g2i's notion blog
 
 # gatsby-source-notion-database
  Load data from Notion's database
