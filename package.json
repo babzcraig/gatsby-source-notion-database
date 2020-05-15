@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/mayneyao/gatsby-source-notion-database#readme",
   "dependencies": {
-    "notabase": "0.7.0",
+    "notabase": "https://github.com/g2i/notabase",
     "p-limit": "^2.2.1",
     "puppeteer": "^1.19.0"
   },
